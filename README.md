@@ -1,4 +1,3 @@
-<h1>DEVELOPER NOTICE: ISAUTHORIZEDV2 IS OLD, UNUSED AND LIKELY BUGGY. DO NOT USE THIS FOR YOUR PROJECTS!</h1>
 <h1>IsAuthorized V2</h1>
 <a href="https://projects.sunix.dev/libs/isauthorized/#api" rel="noopener noreferrer" target="_blank">
     <img src="https://img.shields.io/badge/view-documentation-blue" alt="Open docs"></img>
